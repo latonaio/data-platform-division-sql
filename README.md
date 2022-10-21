@@ -12,7 +12,7 @@ data-platform-division-sql には、sqlの設定ファイルとして、以下�
 
 * data-platform-division-sql-division-data.sql（データ連携基盤 製品部門 - 製品部門データ）
 * data-platform-division-sql-division-data-setup.sql（データ連携基盤 製品部門 - 製品部門データ の設定)  
-* data-platform-division-sql-division-text-data.sql（データ連携基盤 製品部門 - 製品部門部門テキストデータ）  
+* data-platform-division-sql-division-text-data.sql（データ連携基盤 製品部門 - 製品部門テキストデータ）  
 * data-platform-division-sql-division-text-data-setup.sql（データ連携基盤 製品部門 - 製品部門テキストデータ の設定)  
 
 ## 設定値
